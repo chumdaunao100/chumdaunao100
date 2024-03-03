@@ -1,3 +1,3 @@
-const sum = (a, b) => a + b
+const sum = (a, b, c) => a + b + c
 exports.sum = sum
- 
+

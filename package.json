@@ -1,5 +1,5 @@
 {
-  "name": "chumdaunao100",
+  "name": "proj_tea",
   "version": "1.0.1",
   "description": "Testnet Tea",
   "main": "index.js",
@@ -8,9 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chumdaunao100/chumdaunao100"
+    "url": "git+https://github.com/chumdaunao100/chumdaunao100.git"
   },
-  "keywords": ["nothing", "simple", "testtea"],
-  "author": "Chum Dau Nao",
-  "license": "MIT"
+  "keywords": [
+    "nothing",
+    "simple",
+    "testtea"
+  ],
+  "author": "Nguyen T K",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "ttdvsss": "^1.0.1"
+  }
 }
