@@ -1,6 +1,6 @@
 {
-  "name": "chumdaunao100",
-  "version": "1.0.3",
+  "name": "sum_proj",
+  "version": "1.0.2",
   "description": "Testnet Tea",
   "main": "index.js",
   "scripts": {
@@ -15,10 +15,16 @@
     "simple",
     "testtea"
   ],
-  "author": "Chum Dau Nao",
+  "author": "Nguyen T K",
   "license": "MIT",
   "dependencies": {
+    "4medv": "^1.0.1",
+    "chumdaunao100": "^1.0.1",
+    "lodash": "^4.17.21",
+    "nothingvss": "^1.0.1",
     "nt7502": "^1.0.1",
-    "ttd5526": "^1.0.1"
+    "ttd5526": "^1.0.1",
+    "ttdvs": "^1.0.1",
+    "ttdvsss": "^1.0.1"
   }
 }
